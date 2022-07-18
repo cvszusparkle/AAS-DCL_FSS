@@ -1,4 +1,4 @@
-# AAS-DCL_FSS
+# AAS-DCL
 Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation (ECCV 2022)  
 More contents will be added later.
 
