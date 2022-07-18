@@ -15,7 +15,9 @@ numpy
 * **MAALC**: A abdominal CT dataset from [Multi-Atlas Labeling Beyond the Cranial Vault - Workshop and Challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
 
 # Acknowledgement
-Some code parts ablout local prototype are refer to [SSL-ALPNet](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)
+Some code parts ablout local prototype are refer to [SSL-ALPNet](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation).
+The contrastive loss is based on [info-NCE](https://github.com/RElbers/info-nce-pytorch)
+
 
 # Citation
 TO DO
