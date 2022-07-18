@@ -3,10 +3,10 @@ Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Med
 More contents will be added later.
 
 # Requirements
-·
-CUDA/CUDNN
-torch >= 1.4.0
-·
+···
+* CUDA/CUDNN
+* torch >= 1.4.0
+···
 
 # Datasets
 * CHAOS-T2: A abdominal MRI dataset from [CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation](https://chaos.grand-challenge.org/)
