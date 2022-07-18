@@ -2,7 +2,11 @@
 Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation (ECCV 2022)
 More contents will be added later.
 
-# Dependencies
+# Requirements
+·
+CUDA/CUDNN
+torch >= 1.4.0
+·
 
 # Datasets
 * CHAOS-T2: A abdominal MRI dataset from [CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation](https://chaos.grand-challenge.org/)
