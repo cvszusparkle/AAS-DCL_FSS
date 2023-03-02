@@ -20,12 +20,12 @@ The contrastive loss is based on [info-NCE](https://github.com/RElbers/info-nce-
 
 
 # Citation
-@inproceedings{wu2022dual,
-  title={Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-Shot Medical Image Segmentation},
-  author={Wu, Huisi and Xiao, Fangyan and Liang, Chongxin},
-  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XX},
-  pages={417--434},
-  year={2022},
-  organization={Springer}
-}
+@inproceedings{wu2022dual,  
+  title={Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-Shot Medical Image Segmentation},  
+  author={Wu, Huisi and Xiao, Fangyan and Liang, Chongxin},  
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XX},  
+  pages={417--434},  
+  year={2022},  
+  organization={Springer}  
+}  
 
