@@ -12,7 +12,7 @@ numpy
 
 # Datasets
 * **CHAOS-T2**: A abdominal MRI dataset from [CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation](https://chaos.grand-challenge.org/)
-* **MAALC**: A abdominal CT dataset from [Multi-Atlas Labeling Beyond the Cranial Vault - Workshop and Challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
+* **Synapse**: A abdominal CT dataset from [Multi-Atlas Labeling Beyond the Cranial Vault - Workshop and Challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
 
 # Acknowledgement
 Part of the code about the local prototype is referenced from [SSL-ALPNet](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation).  
