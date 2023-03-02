@@ -1,5 +1,5 @@
 # AAS-DCL
-The paper: "**Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation**(https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)"  
+The paper: "[**Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation**](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)"  
 More contents will be added later.
 
 # Requirements
