@@ -1,5 +1,5 @@
 # AAS-DCL
-The paper: "**Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation**"  
+The paper: "**Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-shot Medical Image Segmentation**(https://link.springer.com/chapter/10.1007/978-3-031-20044-1_24)"  
 More contents will be added later.
 
 # Requirements
@@ -20,5 +20,12 @@ The contrastive loss is based on [info-NCE](https://github.com/RElbers/info-nce-
 
 
 # Citation
-TO DO
+@inproceedings{wu2022dual,
+  title={Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-Shot Medical Image Segmentation},
+  author={Wu, Huisi and Xiao, Fangyan and Liang, Chongxin},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XX},
+  pages={417--434},
+  year={2022},
+  organization={Springer}
+}
 
